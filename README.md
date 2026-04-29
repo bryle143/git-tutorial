@@ -1,2 +1,2 @@
-the sky is red
- 
+the sky is blue
+
