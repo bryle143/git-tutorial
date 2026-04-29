@@ -1,2 +1,2 @@
-the sky is blue
+the sky is violet
 
